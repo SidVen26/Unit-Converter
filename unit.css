@@ -39,6 +39,12 @@
     
 }
 
+#instruct {
+    font-style: italic;
+    font-weight: bold;
+    padding-top: 20px;
+}
+
 .length {
    border: black solid;
    margin-top: 10px;
