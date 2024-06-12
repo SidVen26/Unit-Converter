@@ -1,0 +1,62 @@
+.body {
+    text-align: center;
+    color: white;
+}
+.head {
+    font-family: 'Times New Roman', Times, serif;
+    background: rgb(39, 103, 177);
+    padding-bottom: 40px;
+    padding-top: 10px;
+   
+}
+
+
+#convert-btn {
+    margin-top: 20px;
+    padding: 10px;
+    width: 130px;
+    font-weight: bold;
+    background-color: white;
+   
+}
+
+#input-el {
+    background-color: rgb(39, 103, 177);
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    width: 120px;
+    height: 120px;
+    border: 5px solid white;
+    font-size: 40;
+    text-align: center;
+}
+
+.output-containers {
+    color: black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    
+}
+
+.length {
+   border: black solid;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   background-color: rgb(103, 203, 160);
+}
+
+.Volume {
+    border: black solid;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: rgb(103, 203, 160);
+}
+
+.Mass {
+    border: black solid;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: rgb(103, 203, 160);
+}
+
